@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: mongodb
-        image: joindevop/mongodb:v1 # we need to change
+        image: rammohan855/mongodb:v1 # we need to change
         imagePullPolicy: Always
 
 ---
